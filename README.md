@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CommonStudentTakezo
 - 👀 I’m interested in Machine Learning, Physics, Hacking, Algorithms and Data Structures
 - 🌱 I’m currently learning MySQL and Math
-- 💞️ I’m looking to collaborate on beginner-friendly projects in Python, Java, C.
+- 💞️ I’m looking to collaborate on beginner-friendly projects in Python, Java and C.
  As a learner, I'm eager to contribute and gain hands-on experience.
  Open to opportunities that allow me to grow and develop my skills in these areas.
 - 📫 How to reach me commonstudenttakezo@gmail.com
